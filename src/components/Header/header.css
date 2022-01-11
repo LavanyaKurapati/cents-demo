@@ -8,8 +8,6 @@
 }
 .left-part {
   display: flex;
-  flex-shrink: 1;
-  flex-basis: 0%;
 }
 .admin {
   border-radius: 25px;
