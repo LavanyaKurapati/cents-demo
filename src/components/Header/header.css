@@ -1,5 +1,71 @@
 .header {
   display: flex;
   justify-content: space-between;
+  padding: 0px 40px;
+  align-items: center;
+  height: 80px;
+  box-shadow: 2px 1px rgba(0, 0, 0, 0.2);
+}
+.left-part {
+  display: flex;
+  flex-shrink: 1;
+  flex-basis: 0%;
+}
+.admin {
+  border-radius: 25px;
+  border: 1px solid;
+  margin-right: 15px;
+  display: flex;
+  align-items: center;
+  padding: 0px 5px;
+  color: grey;
+  width: 90px;
+}
+.admin:hover {
+  color: black;
+}
+.laundromat {
+  border-radius: 25px;
+  border: 1px solid;
+  margin-right: 15px;
+  display: flex;
+  align-items: center;
+  padding: 0px 5px;
+}
+.header-icon {
+  margin-right: 10px;
+  font-size: 25px;
+}
+.middle-part {
+  display: flex;
+}
+.locations {
+  display: flex;
+  align-items: center;
+  border-radius: 25px;
   padding: 0px 10px;
+}
+.locations:hover {
+  border: 1px solid black;
+}
+.right-part {
+  display: flex;
+  align-items: center;
+  color: #007bff;
+}
+.right-sub-part {
+  display: flex;
+  align-items: center;
+  margin-right: 30px;
+}
+.cents-text {
+  font-size: 16px;
+  font-weight: 400;
+  text-decoration: underline;
+}
+.icon {
+  font-size: 30px;
+}
+.cents-image {
+  height: 40px;
 }
