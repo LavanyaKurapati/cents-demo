@@ -46,19 +46,19 @@ function Dashboard() {
             </div>
 
             <div className="list-item">
-              <p>WF-1854</p>
+              <p>WF-1853</p>
+              <p>Apoorva </p>
+              <p>EST Test(2241 Southern)</p>
+            </div>
+
+            <div className="list-item">
+              <p>WF-1852</p>
               <p>Apoorva Marathe</p>
               <p>EST Test(2241 Southern)</p>
             </div>
 
             <div className="list-item">
-              <p>WF-1854</p>
-              <p>Apoorva Marathe</p>
-              <p>EST Test(2241 Southern)</p>
-            </div>
-
-            <div className="list-item">
-              <p>WF-1854</p>
+              <p>WF-1851</p>
               <p>Apoorva Marathe</p>
               <p>EST Test(2241 Southern)</p>
             </div>
