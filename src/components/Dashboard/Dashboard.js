@@ -1,7 +1,6 @@
 import React from "react";
 import { HiDownload } from "react-icons/hi";
 import { BsThreeDots, BsCurrencyDollar } from "react-icons/bs";
-import "./dashboard.css";
 
 function Dashboard() {
   return (

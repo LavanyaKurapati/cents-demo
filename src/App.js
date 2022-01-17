@@ -1,7 +1,8 @@
 import "./App.css";
-import Dashboard from "./components/Dashboard/Dashboard";
-import Header from "./components/Header/Header";
-import Navbar from "./components/Navbar/Navbar";
+import "./global.scss";
+import Dashboard from "./components/Dashboard/dashboard";
+import Header from "./components/Header/header";
+import Navbar from "./components/Navbar/navbar";
 import { BrowserRouter as Router } from "react-router-dom";
 
 function App() {

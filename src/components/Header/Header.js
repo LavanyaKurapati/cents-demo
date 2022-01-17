@@ -1,5 +1,4 @@
 import React from "react";
-import "./header.css";
 import { CgProfile } from "react-icons/cg";
 import { FiSettings } from "react-icons/fi";
 import {
@@ -31,6 +30,7 @@ function Header() {
           <img
             src="https://pngimg.com/uploads/letter_c/letter_c_PNG7.png"
             className="cents-image"
+            alt="cents"
           />
           <p className="cents-text">Give your two cents</p>
         </div>

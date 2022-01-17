@@ -1,6 +1,5 @@
 import React from "react";
 import { Link } from "react-router-dom";
-import "./navbar.css";
 import { FaColumns, FaRegNewspaper } from "react-icons/fa";
 import { CgProfile } from "react-icons/cg";
 import { GiWashingMachine } from "react-icons/gi";
